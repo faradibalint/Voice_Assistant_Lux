@@ -1,0 +1,11 @@
+Room ID definitions --> used to identify entites
+{
+    "0": ["gyerekszoba"],
+    "1": ["Áron"],
+    "2": "nappali",
+    "3": "fürdő",
+     .
+     .
+     .
+  }  
+  

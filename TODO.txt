@@ -1,0 +1,6 @@
+-encription of sensitive configuration files
+-binary sensors and switches
+-hungarian responses should be stored in a separate file and read during events. --> Allows multiple language
+
+
+Desktop application --> uses desktop app to install the necessary packages -> scripts to get Home Assistant data for automatic setup

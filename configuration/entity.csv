@@ -1,0 +1,12 @@
+place for home_assistant entities
+line format: 
+<room_id --> defined in table.json>,<entity_type --> defined in home assistant>,<entity_id --> defined in home assistant>,<entity_name / alias --> by which the entity can be identified>
+
+Example:
+0,light,light.szoba1_light,lámpa
+0,cover,cover.szoba1, dupla
+6,binary_sensor,binary_sensor.sonoff_xyz, Garázskapu nyitásérzékelő
+7,switch,switch.sonoff_xyz,Terasz világítás
+3,sensor,sensor.ble_temperature_xyz,Fürdő hőmérséklet
+4,climate,climate.xyz,Nappali klíma
+

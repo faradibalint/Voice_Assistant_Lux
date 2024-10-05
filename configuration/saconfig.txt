@@ -1,0 +1,6 @@
+lux alex alexa --> Name of the voice assistant, used to recognise voice command 
+http://example.server.me:8086/api
+place for TOKEN to home assistant server --> generated in Home assistant
+hu-HU-NoemiNeural -->used agent to voice reply --> defined by microsoft
+response/resp.mp3 --> path to constant response file when voice command is recognised -- example :: "What can I help you with" -- file should be pre-generated because it never changes
+response/response.mp3 --> path to constantly modified response file according to current response
