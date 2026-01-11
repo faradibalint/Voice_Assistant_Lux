@@ -1,0 +1,8 @@
+SpeechRecognition
+HomeAssistant-API
+edge-tts
+pygame
+pydub
+openai-whisper
+numpy
+PyAudio
